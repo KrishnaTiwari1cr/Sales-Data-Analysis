@@ -28,7 +28,7 @@ A comprehensive sales and financial analysis project built using Excel. This pro
 ### 🎯 Project Objectives
 - Analyze Profit & Loss Reports by:
   - [Year](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20Year.pdf)
-  - [Month](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20month.pdf)
+  - [Month]([https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20month.pdf](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20Month%20.pdf))
   - [Market](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20Market.pdf)
 - Evaluate profitability using [Gross Margin Analysis](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Gross%20margin%20%25.pdf)
 
