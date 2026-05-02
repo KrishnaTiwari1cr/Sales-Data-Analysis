@@ -14,7 +14,7 @@ A comprehensive sales and financial analysis project built using Excel. This pro
 ### 📈 Key Insights
 - Identified revenue-driving customers and markets  
 - Highlighted underperforming regions vs targets  
-- Discovered top products contributing to maximum sales  
+- Discovered top-performing products contributing to maximum revenue  
 
 ### 💡 Business Value
 - Improves sales strategy and targeting  
@@ -26,7 +26,7 @@ A comprehensive sales and financial analysis project built using Excel. This pro
 ## 💰 Financial Analysis
 
 ### 🎯 Project Objectives
-- Analyze P&L by:
+- Analyze Profit & Loss Reports by:
   - [Year](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20Year.pdf)
   - [Month](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20month.pdf)
   - [Market](https://github.com/KrishnaTiwari1cr/Sales-Data-Analysis/blob/main/Profit%20%26%20Loss%20report%20by%20Market.pdf)
@@ -44,12 +44,21 @@ A comprehensive sales and financial analysis project built using Excel. This pro
 
 ---
 
+## 🔄 Project Workflow
+1. Data Cleaning (Power Query)  
+2. Data Transformation  
+3. Data Analysis (Excel)  
+4. Dashboard & Report Creation  
+5. Insights Generation  
+
+---
+
 ## 🛠️ Technical Skills
 - Excel (Advanced)  
 - Power Query (ETL)  
-- Pivot Tables & Dashboards  
-- Financial Analysis  
+- Pivot Tables  
 - Data Visualization  
+- Financial Analysis  
 
 ---
 
@@ -57,20 +66,24 @@ A comprehensive sales and financial analysis project built using Excel. This pro
 - Trend Analysis  
 - Forecasting  
 - Variance Analysis  
-- KPI Tracking  
+- KPI Understanding  
+
+---
+
+## 💡 Business Recommendations
+- Focus on high-performing products and markets  
+- Improve performance in low-revenue regions  
+- Optimize pricing and cost strategies for better margins  
 
 ---
 
 ## 🚀 Project Highlights
-- End-to-end Excel project (data → insights)  
-- Business-focused reporting  
-- Clean and interactive dashboards  
+- End-to-end Excel-based analysis project  
+- Business-focused insights  
+- Structured and professional reporting  
 
 ---
 
 ## 👤 Author
 **Krishna Tiwari**  
 Aspiring Data Analyst  
-
-🔗 GitHub: https://github.com/KrishnaTiwari1cr
-🔗 LinkedIn: (add your link)
